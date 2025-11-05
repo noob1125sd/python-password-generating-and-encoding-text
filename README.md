@@ -1,3 +1,13 @@
-its a python script, uses for encode text and generate password
-it can encode text from file, decode text from file,
-generate passwords and encode-decode in live mode
+# CryptoPass Tool
+
+Python tool for text encoding/decoding and password generation.
+
+## Features
+- 🔐 Encode/decode text from files
+- 🎲 Generate secure passwords  
+- 💬 Live encode-decode mode
+- 📁 File-based operations
+
+## Usage
+```bash
+python cryptopass.py
