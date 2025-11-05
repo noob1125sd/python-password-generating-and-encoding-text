@@ -1,4 +1,4 @@
-# CryptoPass Tool
+# PassBin Tool
 
 Python tool for text encoding/decoding and password generation.
 
@@ -10,4 +10,4 @@ Python tool for text encoding/decoding and password generation.
 
 ## Usage
 ```bash
-python cryptopass.py
+python PassBin.py
